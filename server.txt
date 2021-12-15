@@ -1,0 +1,17 @@
+
+Arquitectura: https://drive.google.com/file/d/1qW8XfWlbCp6QgT_hyfbmeeKGDPAHjy_G/view?usp=sharing
+
+server aws
+
+ec2-34-204-68-112.compute-1.amazonaws.com
+
+MQTT AUTENTICACION
+USE: Diego
+PASS: Mqtt_Diego@
+
+#TESTEO SI EL BROKER TIENE AUTENTICACION
+mosquitto_sub -h localhost -t test -u Diego -P Mqtt_Diego@
+mosquitto_pub -h localhost -t test -m "hello world" -u Diego -P Mqtt_Diego@
+
+
+mosquitto_sub -h localhost -t data/smartlux/869951033872569/data -u Diego -P Mqtt_Diego@

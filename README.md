@@ -2,3 +2,7 @@
 Controlador Luminarias por red Movil
 
 ![image](https://user-images.githubusercontent.com/68084473/146110072-adab1d70-a729-42d0-aa06-8acd624b460f.png)
+
+[Schematic Prints.PDF](https://github.com/markoAntonio1692/Controlador_Luminarias/files/7715958/Schematic.Prints.PDF)
+
+[Guia de Conexiones.PDF](https://github.com/markoAntonio1692/Controlador_Luminarias/files/7715959/Guia.de.Conexiones.PDF)

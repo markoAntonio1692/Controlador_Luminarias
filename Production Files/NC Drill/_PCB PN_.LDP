@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\JUAN\OneDrive\Documentos\Altium\Projects\Proyectos SIGFOX\Control de Sistema de Seguridad\PCB1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=_pcb pn_-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=_pcb pn_-slotholes.txt|DrillLayers=gtl,gbl
